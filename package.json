@@ -15,7 +15,7 @@
     "react-helmet": "^6.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
-    "homepage": "https://mrosyid.github.io/QuizApp",
+    "homepage": "https://mrosyid.github.io/QuizApp"
   },
   "scripts": {
     "start": "react-scripts start",
