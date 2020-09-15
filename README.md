@@ -1,5 +1,5 @@
 #Quiz App
-https://mrosyid.github.io/QuizApp/
+https://ancient-ravine-49664.herokuapp.com/
 
 **Version 1.0.0**
 
