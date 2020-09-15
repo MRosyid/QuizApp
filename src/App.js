@@ -8,9 +8,9 @@ import Stats from './components/Stats';
 function App() {
   return (
   <Router>
-    <Route exact path = "" component = {Home} />
-    <Route exact path = "/takequiz" component = {Play} />
-    <Route exact path = "/stats" component = {Stats} />
+    <Route exact path = {process.env.PUBLIC_URL + '/'} component = {Home} />
+    <Route exact path = {process.env.PUBLIC_URL + '/takequiz'} component = {Play} />
+    <Route exact path = {process.env.PUBLIC_URL + '/stats'} component = {Stats} />
   </Router>
   );
 }
