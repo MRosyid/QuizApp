@@ -8,7 +8,7 @@ import Stats from './components/Stats';
 function App() {
   return (
   <Router>
-    <Route exact path = "/" component = {Home} />
+    <Route exact path = "" component = {Home} />
     <Route exact path = "/takequiz" component = {Play} />
     <Route exact path = "/stats" component = {Stats} />
   </Router>
