@@ -1,0 +1,59 @@
+#home{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../assets/background.jpg);
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    width: 100vw;
+
+    section {
+        background-color: rgba(255,255,255,0.8);
+        border-radius: 5px;
+        padding: 0  $md;
+        height: 40%;
+        width: 35%;
+    }
+
+    .fa-lightbulb{
+        margin-top: $lg;
+        font-size: 7rem;
+        color: #ff8c00;
+    }
+
+    h1{
+        text-align: center;
+        margin-top: $xs;
+        font-size: $lg;
+        color: black;
+    }
+
+    .take-button-container{
+        margin-top: $sm;
+        width: 100;
+    }
+
+    a.take-button{
+        background-color: #0080ff;
+        border-radius: 25px;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+        padding: $xs;
+        display: block;
+        transition: 0.3s linear all;
+    }
+
+    a.take-button:hover{
+        background-color: darken(#0080ff, 10%);
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1), 0 1px 5px 0px rgba(0,0,0,0.2);
+    }
+}
+
+@media (max-width: 750px){
+    #home section{
+        padding: 0 $sm;
+        width: 100%;
+        height: 100%;
+        }
+}

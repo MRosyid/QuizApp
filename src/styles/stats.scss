@@ -1,0 +1,92 @@
+.stat-page{
+    background-size: cover;
+    background-position: center;
+    background-image: url(../assets/background.jpg);
+    height: 100vh;
+    width: 100vw;
+    text-align: center; 
+    
+    h1{
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+}
+
+.fa-check-circle{
+    margin: $lg 0 $xs 0;
+    font-size: 10rem;
+    color: darken(#56ff00, 15%);
+    text-align: center;
+    width: 100%;
+}
+
+.stats-container{
+    width: 40%;
+    background-color:#fbecdb;
+    opacity: 0.8;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    display: inline-block;
+    text-align: left; 
+    
+    h2{
+        text-align: center;
+        color: black;
+        margin-bottom: 1rem;
+    }
+}
+
+.stat-btn-container{
+    display: flex;
+    justify-content: center;
+
+    .btn:first-child{
+        background-color:darken(#a3dca6, 20%);
+        color: white;
+        margin: 0rem 10%;
+    }
+    .btn:first-child:hover{
+        background-color:darken(#a3dca6, 30%);
+    }
+
+    .btn:last-child{
+        background-color:darken(#77a2ff, 20%);
+        color: white;
+        margin: 0 10%;
+    }
+    .btn:last-child:hover{
+        background-color:darken(#77a2ff, 30%);
+    }
+}
+
+.no-stats{
+    background-color: rgba(200,200,200,0.8);
+    padding: 3rem;
+    border-radius: 5px;
+    vertical-align: middle;
+
+    h1{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 2rem;  
+    }
+}
+
+@media (max-width: 1000px){
+    .stats-container{
+        width: 50%;
+        }
+}
+
+@media (max-width: 750px){
+    .stats-container{
+        width: 60%;
+        }
+}
+
+@media (max-width: 600px){
+    .stats-container{
+        width: 80%;
+        }
+}

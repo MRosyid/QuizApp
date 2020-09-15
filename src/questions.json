@@ -1,0 +1,136 @@
+[
+    {
+        "question": "What was the last movie Walt Disney worked on before he died?",
+        "optionA": "Robin Hood",
+        "optionB": "101 Dalmatians",
+        "optionC": "Sleeping Beauty",
+        "optionD": "The Jungle Book",
+        "answer": "The Jungle Book"
+    },
+
+    {
+        "question": "What temperature does water boil at?",
+        "optionA": "50 degrees Celcius",
+        "optionB": "25 degrees Celcius",
+        "optionC": "100 degrees Celcius",
+        "optionD": "150 degrees Celcius",
+        "answer": "100 degrees Celcius"
+    },
+
+    {
+        "question": "Which nut is used to make dynamite?",
+        "optionA": "Almonds",
+        "optionB": "Pine nuts",
+        "optionC": "Peanuts",
+        "optionD": "Walnuts",
+        "answer": "Peanuts"
+    },
+
+    {
+        "question": "What is the warmest sea on Earth?",
+        "optionA": "Red sea",
+        "optionB": "White sea",
+        "optionC": "Dead sea",
+        "optionD": "Black sea",
+        "answer": "Red sea"
+    },
+
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+
+    {
+        "question": "What is the sum of the angles of a triangle?",
+        "optionA": "75 degrees",
+        "optionB": "90 degrees",
+        "optionC": "180 degrees",
+        "optionD": "360 degrees",
+        "answer": "180 degrees"
+    },
+
+    {
+        "question": "Where is the smallest bone in the human body?",
+        "optionA": "The Chest",
+        "optionB": "The Ear",
+        "optionC": "The Legs",
+        "optionD": "The Hands",
+        "answer": "The Ear"
+    },
+
+    {
+        "question": "What does the roman numeral C represent?",
+        "optionA": "100",
+        "optionB": "10",
+        "optionC": "10,000",
+        "optionD": "1,000,000",
+        "answer": "100"
+    },
+
+    {
+        "question": " In what month is Earth closest to the sun?",
+        "optionA": "May",
+        "optionB": "October",
+        "optionC": "January",
+        "optionD": "April",
+        "answer": "January"
+    },
+
+    {
+        "question": "Who painted the Mona Lisa?",
+        "optionA": "Alexander Graham Bell",
+        "optionB": "Pablo Picasso",
+        "optionC": "Vincent van Gogh",
+        "optionD": "Leonardo Da Vinci",
+        "answer": "Leonardo Da Vinci"
+    },
+
+    {
+        "question": "How many calories per gram are stored in protein?",
+        "optionA": "2",
+        "optionB": "4",
+        "optionC": "7",
+        "optionD": "10",
+        "answer": "4"
+    },
+
+    {
+        "question": "What is the fastest snake in the world?",
+        "optionA": "Black Mamba",
+        "optionB": "King Cobra",
+        "optionC": "Boomslang",
+        "optionD": "Rattlesnake",
+        "answer": "Black Mamba"
+    },
+
+    {
+        "question": "What was Google’s original name? ",
+        "optionA": "Oneshot",
+        "optionB": "Typist",
+        "optionC": "Backrub",
+        "optionD": "Swift",
+        "answer": "Backrub"
+    },
+
+    {
+        "question": "What year was the very first model of the iPhone released?",
+        "optionA": "2004",
+        "optionB": "2005",
+        "optionC": "2006",
+        "optionD": "2007",
+        "answer": "2007"
+    },
+
+    {
+        "question": "What is the only edible food that never expires?",
+        "optionA": "Salt",
+        "optionB": "Honey",
+        "optionC": "White Rice",
+        "optionD": "Barley",
+        "answer": "Honey"
+    }
+]
