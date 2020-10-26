@@ -1,9 +1,9 @@
 # Quiz App
-https://ancient-ravine-49664.herokuapp.com/
+https://mrosyid-quiz-app.herokuapp.com/
 
 **Version 1.0.0**
 
-An app where you can take a quiz and shows your results after you finish it.
+A quiz app which incorporates a timer, responsive hint function and score board.
 
 Technologies used: HTML, CSS/SASS, Javascript, React
 
